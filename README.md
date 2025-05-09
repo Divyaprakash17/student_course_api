@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root with:
 
 ```env
-DATABASE_URL=postgresql://postgres:root@localhost/student
+DATABASE_URL=postgresql://username:password@localhost/student
 ```
 
 ### 5. Create the Database
